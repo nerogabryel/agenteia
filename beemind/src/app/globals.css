@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-honey: #fbbf24;
+  --color-amber: #f59e0b;
+  --color-bg: #1a1a1a;
+  --color-surface: #0f0f0f;
+  --color-text: #e5e5e7;
+}
